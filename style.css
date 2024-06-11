@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    
+}
+.profile-image{
+    width: 200px;
+    border-radius: 150px;
+    
+}
+.name{
+    font-family: 'roboto','arial','sans';
+}
+.hero-section{
+    background-color: #0a9396;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.designation{
+    font-style: italic;
+}
+.spaced-container{
+    margin: 70px;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.about-section{
+    background-color: aquamarine;
+}
+.about-content{
+    font-style: italic;
+    line-height: 27px;
+}
+.hobbies-section,.movies-section{
+    border-top: 5px solid green;
+}
+.movie-list-item{
+    display: inline-block;
+    margin: 15px;
+}
+.movie-poster{
+    height: 300px;
+}
+.fav-movie-list{
+    text-align: center;
+}
+.education{
+    width: 100%;
+    text-align: left;
+    border: 1px solid black;
+}
+.education td{
+    border: 1px solid lightgrey;
+}
+
+
+
+
+/**page7**/
+body.page{
+    padding: 25px;
+    background-color: dodgerblue;
+    color: white;
+}
+body.page .container{
+    text-align: center;
+}
+.about-me-link{
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
+.link-container{
+    border: 3px solid white;
+    padding: 15px;
+    margin-top: 20px;
+    margin: auto;
+    width: 250px;
+    text-align: center;
+}
+.hero-heading{
+    font-size: 50px;
+}
+.welcome-message{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
